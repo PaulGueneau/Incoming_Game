@@ -1,6 +1,6 @@
-Executer les commandes suivantes depuis Projet_initial
+Executer les commandes suivantes depuis Projet_initial/ Execute the following from initial project
 1. make -C irrlicht-1.8.4/source/Irrlicht (opt. -j16)           
-2. Attendre un peu
+2. Attendre un peu/ Wait
 3. mkdir build
 4. cd build
 5. cmake ..
